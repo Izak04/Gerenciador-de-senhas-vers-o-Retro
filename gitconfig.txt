@@ -1,6 +1,8 @@
-git config --global user.name Izak4
-git config --global user.email isaqueofial02@gmail.com
+git config --global user.name EnzoZago10
+git config --global user.email enzozago2010@gmail.com
 
-//Iniciar o projeto
+-- Iniciar o projeto
 npx create-expo-app@latest senhas-app
 cd senhas-app
+
+mmmm
